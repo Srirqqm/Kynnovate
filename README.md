@@ -22,5 +22,5 @@ yarn install
 
 3. Start the Application
 npm run dev
-# or
+or
 yarn dev
